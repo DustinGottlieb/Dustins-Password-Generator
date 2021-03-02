@@ -6,4 +6,4 @@ Dustin's Password Generator Repository:
 https://github.com/DustinGottlieb/Dustins-Password-Generator
 
 Screenshot:
-![Dustin's Password Generator](./assets/images/Password-Generator-Screenshot.jpg)
+![Dustin's Password Generator](https://raw.githubusercontent.com/DustinGottlieb/Dustins-Password-Generator/main/Assets/images/Password-Generator-Screenshot.JPG)
